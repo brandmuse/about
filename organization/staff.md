@@ -6,7 +6,7 @@ type: Resource
 
 The staff of the Foundation for Public Code Vereniging are employees that execute the work agreed on by the [general assembly](../organization/governance-model.md#general-assembly) under direction of the [board of directors](../organization/governance-model.md#board-of-directors).
 
-[Meet our team](https://publiccode.net/team/) or [come work with us](https://publiccode.net/careers/).
+[Meet our team](https://publiccode.net/who-we-are/) or [come work with us](https://publiccode.net/careers).
 
 As we are a community leadership organization that mostly helps others, we aim for minimal hierarchy and overhead and maximal autonomy for the specialists who further [our mission](mission.md).
 
@@ -87,7 +87,7 @@ Responsibilities:
 
 * [Staff management](../activities/staff-management/index.md)
 * [Procurement](../activities/procurement/index.md), [office management](../activities/office-management/index.md) and contract management
-* Finances, budget and resource management
+* [Finances, budget and resource management](../activities/finance-management/index.md)
 * [Infrastructure and tools](../activities/tool-management/index.html)
 
 Roles:
